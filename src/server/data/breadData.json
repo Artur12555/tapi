@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Whole Wheat Bread",
+    "price": 2.34,
+    "batchNumber": "A123"
+  },
+  {
+    "id": 2,
+    "name": "Rye Bread",
+    "price": 1.45,
+    "batchNumber": "B456"
+  },
+  {
+    "id": 3,
+    "name": "Sourdough Bread",
+    "price": 2.67,
+    "batchNumber": "C789"
+  },
+  {
+    "id": 4,
+    "name": "Multigrain Bread",
+    "price": 2.98,
+    "batchNumber": "D123"
+  },
+  {
+    "id": 5,
+    "name": "Baguette",
+    "price": 1.89,
+    "batchNumber": "E456"
+  },
+  {
+    "id": 6,
+    "name": "Ciabatta",
+    "price": 2.23,
+    "batchNumber": "F789"
+  },
+  {
+    "id": 7,
+    "name": "Pumpernickel Bread",
+    "price": 1.67,
+    "batchNumber": "G123"
+  },
+  {
+    "id": 8,
+    "name": "French Bread",
+    "price": 2.12,
+    "batchNumber": "H456"
+  },
+  {
+    "id": 9,
+    "name": "Challah Bread",
+    "price": 2.78,
+    "batchNumber": "I789"
+  },
+  {
+    "id": 10,
+    "name": "Cinnamon Raisin Bread",
+    "price": 1.34,
+    "batchNumber": "J123"
+  },
+  {
+    "id": 11,
+    "name": "Oatmeal Bread",
+    "price": 1.78,
+    "batchNumber": "K123"
+  },
+  {
+    "id": 12,
+    "name": "Sunflower Seed Bread",
+    "price": 2.45,
+    "batchNumber": "L456"
+  },
+  {
+    "id": 13,
+    "name": "Pita Bread",
+    "price": 2.13,
+    "batchNumber": "M789"
+  },
+  {
+    "id": 14,
+    "name": "Brioche",
+    "price": 1.67,
+    "batchNumber": "N123"
+  },
+  {
+    "id": 15,
+    "name": "English Muffin Bread",
+    "price": 2.98,
+    "batchNumber": "O456"
+  },
+  {
+    "id": 16,
+    "name": "Focaccia",
+    "price": 2.34,
+    "batchNumber": "P789"
+  },
+  {
+    "id": 17,
+    "name": "Raisin Bread",
+    "price": 1.45,
+    "batchNumber": "Q123"
+  },
+  {
+    "id": 18,
+    "name": "Sesame Bread",
+    "price": 2.67,
+    "batchNumber": "R456"
+  },
+  {
+    "id": 19,
+    "name": "Garlic Bread",
+    "price": 1.89,
+    "batchNumber": "S789"
+  },
+  {
+    "id": 20,
+    "name": "Cornbread",
+    "price": 2.23,
+    "batchNumber": "T123"
+  },
+  {
+    "id": 21,
+    "name": "Sesame Bagel",
+    "price": 2.67,
+    "batchNumber": "U123"
+  },
+  {
+    "id": 22,
+    "name": "Rye Sourdough",
+    "price": 1.45,
+    "batchNumber": "V456"
+  },
+  {
+    "id": 23,
+    "name": "Cranberry Walnut Bread",
+    "price": 2.34,
+    "batchNumber": "W789"
+  },
+  {
+    "id": 24,
+    "name": "Honey Wheat Bread",
+    "price": 1.89,
+    "batchNumber": "X123"
+  },
+  {
+    "id": 25,
+    "name": "Rosemary Focaccia",
+    "price": 2.23,
+    "batchNumber": "Y456"
+  },
+  {
+    "id": 26,
+    "name": "Cheddar Jalapeno Bread",
+    "price": 2.98,
+    "batchNumber": "Z789"
+  },
+  {
+    "id": 27,
+    "name": "Garlic Naan",
+    "price": 1.67,
+    "batchNumber": "A123"
+  },
+  {
+    "id": 28,
+    "name": "Pumpernickel Baguette",
+    "price": 1.78,
+    "batchNumber": "B456"
+  },
+  {
+    "id": 29,
+    "name": "Millet Bread",
+    "price": 2.45,
+    "batchNumber": "C789"
+  },
+  {
+    "id": 30,
+    "name": "Sourdough Baguette",
+    "price": 2.12,
+    "batchNumber": "D123"
+  }
+]

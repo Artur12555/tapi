@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "bakery": "1234 Elm Street, Suite 101",
+    "bakingDay": "Monday",
+    "startTime": "2024-02-01T08:00:00Z",
+    "endTime": "2024-02-02T08:00:00Z",
+    "batchNumber": "A123"
+  },
+  {
+    "id": 2,
+    "bakery": "567 Baker Avenue",
+    "bakingDay": "Tuesday",
+    "startTime": "2024-02-03T09:00:00Z",
+    "endTime": "2024-02-04T09:00:00Z",
+    "batchNumber": "B456"
+  },
+  {
+    "id": 3,
+    "bakery": "789 Maple Drive",
+    "bakingDay": "Wednesday",
+    "startTime": "2024-02-05T10:00:00Z",
+    "endTime": "2024-02-06T10:00:00Z",
+    "batchNumber": "C789"
+  },
+  {
+    "id": 4,
+    "bakery": "1010 Oak Lane",
+    "bakingDay": "Thursday",
+    "startTime": "2024-02-07T11:00:00Z",
+    "endTime": "2024-02-08T11:00:00Z",
+    "batchNumber": "D123"
+  },
+  {
+    "id": 5,
+    "bakery": "4321 Walnut Street",
+    "bakingDay": "Friday",
+    "startTime": "2024-02-09T12:00:00Z",
+    "endTime": "2024-02-10T12:00:00Z",
+    "batchNumber": "E456"
+  },
+  {
+    "id": 6,
+    "bakery": "8765 Cherry Road",
+    "bakingDay": "Saturday",
+    "startTime": "2024-02-11T13:00:00Z",
+    "endTime": "2024-02-12T13:00:00Z",
+    "batchNumber": "F789"
+  },
+  {
+    "id": 7,
+    "bakery": "2468 Pine Lane",
+    "bakingDay": "Sunday",
+    "startTime": "2024-02-13T14:00:00Z",
+    "endTime": "2024-02-14T14:00:00Z",
+    "batchNumber": "G123"
+  },
+  {
+    "id": 8,
+    "bakery": "1357 Cedar Avenue, Suite 202",
+    "bakingDay": "Monday",
+    "startTime": "2024-02-15T15:00:00Z",
+    "endTime": "2024-02-16T15:00:00Z",
+    "batchNumber": "H456"
+  },
+  {
+    "id": 9,
+    "bakery": "9876 Birch Street",
+    "bakingDay": "Tuesday",
+    "startTime": "2024-02-17T16:00:00Z",
+    "endTime": "2024-02-18T16:00:00Z",
+    "batchNumber": "I789"
+  },
+  {
+    "id": 10,
+    "bakery": "5432 Spruce Road",
+    "bakingDay": "Wednesday",
+    "startTime": "2024-02-19T17:00:00Z",
+    "endTime": "2024-02-20T17:00:00Z",
+    "batchNumber": "J123"
+  },
+  {
+    "id": 11,
+    "bakery": "2101 Bakery Lane",
+    "bakingDay": "Thursday",
+    "startTime": "2024-02-21T08:00:00Z",
+    "endTime": "2024-02-22T08:00:00Z",
+    "batchNumber": "K456"
+  },
+  {
+    "id": 12,
+    "bakery": "876 Crescent Street",
+    "bakingDay": "Friday",
+    "startTime": "2024-02-23T09:00:00Z",
+    "endTime": "2024-02-24T09:00:00Z",
+    "batchNumber": "L789"
+  },
+  {
+    "id": 13,
+    "bakery": "1234 Sunrise Avenue",
+    "bakingDay": "Saturday",
+    "startTime": "2024-02-25T10:00:00Z",
+    "endTime": "2024-02-26T10:00:00Z",
+    "batchNumber": "M123"
+  },
+  {
+    "id": 14,
+    "bakery": "7897 Sunset Road",
+    "bakingDay": "Sunday",
+    "startTime": "2024-02-27T11:00:00Z",
+    "endTime": "2024-02-28T11:00:00Z",
+    "batchNumber": "N456"
+  },
+  {
+    "id": 15,
+    "bakery": "234 Baker's Way",
+    "bakingDay": "Monday",
+    "startTime": "2024-02-29T12:00:00Z",
+    "endTime": "2024-03-01T12:00:00Z",
+    "batchNumber": "O789"
+  },
+  {
+    "id": 16,
+    "bakery": "5678 Yeast Avenue",
+    "bakingDay": "Tuesday",
+    "startTime": "2024-03-02T13:00:00Z",
+    "endTime": "2024-03-03T13:00:00Z",
+    "batchNumber": "P123"
+  },
+  {
+    "id": 17,
+    "bakery": "9876 Flour Lane",
+    "bakingDay": "Wednesday",
+    "startTime": "2024-03-04T14:00:00Z",
+    "endTime": "2024-03-05T14:00:00Z",
+    "batchNumber": "Q456"
+  },
+  {
+    "id": 18,
+    "bakery": "3456 Rise Street",
+    "bakingDay": "Thursday",
+    "startTime": "2024-03-06T15:00:00Z",
+    "endTime": "2024-03-07T15:00:00Z",
+    "batchNumber": "R789"
+  },
+  {
+    "id": 19,
+    "bakery": "789 Doughnut Road",
+    "bakingDay": "Friday",
+    "startTime": "2024-03-08T16:00:00Z",
+    "endTime": "2024-03-09T16:00:00Z",
+    "batchNumber": "S123"
+  },
+  {
+    "id": 20,
+    "bakery": "432 Pastry Place",
+    "bakingDay": "Saturday",
+    "startTime": "2024-03-10T17:00:00Z",
+    "endTime": "2024-03-11T17:00:00Z",
+    "batchNumber": "T456"
+  },
+  {
+    "id": 21,
+    "bakery": "1235 Baker's Lane",
+    "bakingDay": "Sunday",
+    "startTime": "2024-03-12T08:00:00Z",
+    "endTime": "2024-03-13T08:00:00Z",
+    "batchNumber": "U789"
+  },
+  {
+    "id": 22,
+    "bakery": "5679 Sourdough Street",
+    "bakingDay": "Monday",
+    "startTime": "2024-03-14T09:00:00Z",
+    "endTime": "2024-03-15T09:00:00Z",
+    "batchNumber": "V123"
+  },
+  {
+    "id": 23,
+    "bakery": "7890 Bagel Boulevard",
+    "bakingDay": "Tuesday",
+    "startTime": "2024-03-16T10:00:00Z",
+    "endTime": "2024-03-17T10:00:00Z",
+    "batchNumber": "W456"
+  },
+  {
+    "id": 24,
+    "bakery": "1011 Pretzel Place",
+    "bakingDay": "Wednesday",
+    "startTime": "2024-03-18T11:00:00Z",
+    "endTime": "2024-03-19T11:00:00Z",
+    "batchNumber": "X789"
+  },
+  {
+    "id": 25,
+    "bakery": "4322 Croissant Circle",
+    "bakingDay": "Thursday",
+    "startTime": "2024-03-20T12:00:00Z",
+    "endTime": "2024-03-21T12:00:00Z",
+    "batchNumber": "Y123"
+  },
+  {
+    "id": 26,
+    "bakery": "8766 French Bread Lane",
+    "bakingDay": "Friday",
+    "startTime": "2024-03-22T13:00:00Z",
+    "endTime": "2024-03-23T13:00:00Z",
+    "batchNumber": "Z456"
+  },
+  {
+    "id": 27,
+    "bakery": "2469 Baguette Boulevard",
+    "bakingDay": "Saturday",
+    "startTime": "2024-03-24T14:00:00Z",
+    "endTime": "2024-03-25T14:00:00Z",
+    "batchNumber": "A789"
+  },
+  {
+    "id": 28,
+    "bakery": "1358 Ciabatta Circle",
+    "bakingDay": "Sunday",
+    "startTime": "2024-03-26T15:00:00Z",
+    "endTime": "2024-03-27T15:00:00Z",
+    "batchNumber": "B123"
+  },
+  {
+    "id": 29,
+    "bakery": "9877 Pastry Place",
+    "bakingDay": "Monday",
+    "startTime": "2024-03-28T16:00:00Z",
+    "endTime": "2024-03-29T16:00:00Z",
+    "batchNumber": "C456"
+  },
+  {
+    "id": 30,
+    "bakery": "5433 Doughnut Drive",
+    "bakingDay": "Tuesday",
+    "startTime": "2024-03-30T17:00:00Z",
+    "endTime": "2024-03-31T17:00:00Z",
+    "batchNumber": "D789"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "company": "Sweet Delights Bakery",
+    "bakery": "1234 Elm Street, Suite 101"
+  },
+  {
+    "id": 2,
+    "company": "Golden Crust Bakery",
+    "bakery": "567 Baker Avenue"
+  },
+  {
+    "id": 3,
+    "company": "Cakes Galore",
+    "bakery": "789 Maple Drive"
+  },
+  {
+    "id": 4,
+    "company": "Flour Power Bakery",
+    "bakery": "1010 Oak Lane"
+  },
+  {
+    "id": 5,
+    "company": "Bread & Butter Bakery",
+    "bakery": "4321 Walnut Street"
+  },
+  {
+    "id": 6,
+    "company": "Rising Sun Bakery",
+    "bakery": "8765 Cherry Road"
+  },
+  {
+    "id": 7,
+    "company": "Dough Delight",
+    "bakery": "2468 Pine Lane"
+  },
+  {
+    "id": 8,
+    "company": "Wholesome Bakes",
+    "bakery": "1357 Cedar Avenue, Suite 202"
+  },
+  {
+    "id": 9,
+    "company": "Sourdough Dreams",
+    "bakery": "9876 Birch Street"
+  },
+  {
+    "id": 10,
+    "company": "Artisan Crust Bakery",
+    "bakery": "5432 Spruce Road"
+  },
+  {
+    "id": 11,
+    "company": "Bakery Bliss",
+    "bakery": "123 Bakery Lane"
+  },
+  {
+    "id": 12,
+    "company": "Tasty Creations Bakery",
+    "bakery": "456 Baker Street, Suite 301"
+  },
+  {
+    "id": 13,
+    "company": "Sweet Delights Pastry Shop",
+    "bakery": "789 Pastry Place"
+  },
+  {
+    "id": 14,
+    "company": "Golden Loaf Bakery",
+    "bakery": "101 Doughnut Drive"
+  },
+  {
+    "id": 15,
+    "company": "Butterfly Bakery",
+    "bakery": "432 Croissant Circle"
+  },
+  {
+    "id": 16,
+    "company": "Cinnamon Swirl Bakes",
+    "bakery": "876 Brioche Boulevard"
+  },
+  {
+    "id": 17,
+    "company": "Heavenly Breads",
+    "bakery": "246 Sourdough Street"
+  },
+  {
+    "id": 18,
+    "company": "Crust & Crumb Bakery",
+    "bakery": "135 Baguette Avenue"
+  },
+  {
+    "id": 19,
+    "company": "Rise & Shine Bakery",
+    "bakery": "987 Croissant Road"
+  },
+  {
+    "id": 20,
+    "company": "Bread Heaven",
+    "bakery": "543 Ciabatta Circle"
+  },
+  {
+    "id": 21,
+    "company": "Artisan Crust Bakery",
+    "bakery": "123 Rye Road"
+  },
+  {
+    "id": 22,
+    "company": "Dough Delight",
+    "bakery": "456 Bagel Boulevard"
+  },
+  {
+    "id": 23,
+    "company": "Bread & Butter Bakery",
+    "bakery": "789 Sourdough Street"
+  },
+  {
+    "id": 24,
+    "company": "Wholesome Bakes",
+    "bakery": "101 Ciabatta Circle"
+  },
+  {
+    "id": 25,
+    "company": "Sourdough Dreams",
+    "bakery": "432 French Bread Lane"
+  },
+  {
+    "id": 26,
+    "company": "Cakes Galore",
+    "bakery": "876 Pretzel Place"
+  },
+  {
+    "id": 27,
+    "company": "Flour Power Bakery",
+    "bakery": "246 Baguette Boulevard"
+  },
+  {
+    "id": 28,
+    "company": "Golden Crust Bakery",
+    "bakery": "135 Croissant Circle"
+  },
+  {
+    "id": 29,
+    "company": "Sweet Delights Bakery",
+    "bakery": "987 Pastry Place"
+  },
+  {
+    "id": 30,
+    "company": "Bakery Bliss",
+    "bakery": "543 Doughnut Drive"
+  }
+]
